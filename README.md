@@ -1,5 +1,4 @@
 
-For Exercise 1
 Installation
 Execute npm install this folder to install the dependencies.
 
