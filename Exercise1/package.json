@@ -1,0 +1,14 @@
+{
+  "name": "dungeon",
+  "version": "1.0.0",
+  "description": "dungeon of lord object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "esther",
+  "license": "ISC",
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}
